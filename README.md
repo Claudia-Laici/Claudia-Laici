@@ -63,7 +63,7 @@ Attualmente sto lavorando su progetti personali che presto saranno pubblicati qu
 
 
 <p align="center">
-<img src="https://github.com/tuo-utente/tuo-repo/blob/main/claudia_onda_luminosa.gif?raw=true" alt="Claudia GIF" width="600">
+![claudia_onda_luminosa](https://github.com/user-attachments/assets/023855eb-7087-4251-b0dc-a1add23ab4de)
 </p>
 
 ---
