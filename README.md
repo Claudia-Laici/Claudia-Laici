@@ -60,4 +60,10 @@ Attualmente sto lavorando su progetti personali che presto saranno pubblicati qu
   </a>
 </p>
 
+
+
+<p align="center">
+![claudia_onda_luminosa](https://github.com/user-attachments/assets/2be8883b-153a-4f61-a494-2ac6b5373c24)
+</p>
+
 ---
