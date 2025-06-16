@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=amatic+sc&weight=600&size=30&color=7B5FFD&background=FEFFFF00&center=true&vCenter=true&lines=Claudia+Laici;Front-End+Dev+%26+Game+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=amatic+sc&weight=600&size=35&color=7B5FFD&background=FEFFFF00&center=true&vCenter=true&lines=Claudia+Laici;Front-End+Dev+%26+Game+Developer" alt="Typing animation" />
 </p>
 
 
