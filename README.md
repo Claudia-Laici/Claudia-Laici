@@ -47,6 +47,7 @@ Attualmente sto lavorando su progetti personali che presto saranno pubblicati qu
  <a href="https://www.linkedin.com/in/claudia-laici/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  
  <a href="https://www.artstation.com/claudialaici">
     <img src="https://img.shields.io/badge/-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white" />
   </a>
