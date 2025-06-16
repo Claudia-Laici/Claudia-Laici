@@ -13,9 +13,6 @@ const claudia = {
 };
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Claudia-Laici&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
-</div>
 
 ---
 
