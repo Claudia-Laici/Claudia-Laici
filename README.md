@@ -1,79 +1,118 @@
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=amatic+sc&weight=600&size=35&color=7B5FFD&background=FEFFFF00&center=true&vCenter=true&lines=Claudia+Laici;Front-End+Dev+%26+Game+Developer" alt="Typing animation" />
-</p>
-
-
-### 👩‍💻 Chi sono
-
-Sono una sviluppatrice specializzata in front-end e sviluppo di videogiochi.
-Mi piace unire logica e creatività per costruire esperienze interattive coinvolgenti.
-
-🧠 Attualmente mi sto concentrando su progetti personali e portfolio, ma sono sempre pronta a nuove sfide.
-
----
-
-### 💼 Esperienza & Formazione:
-
-* ITS Academy LazioDigital
-  Diploma di Tecnico Superiore di tipo Europeo – V EQF, Game DeveloperDiploma di Tecnico Superiore di tipo Europeo – V EQF, Game Developer
-  nov 2022 - lug 2024nov 2022 - lug 2024
-  Votazione: 100/100 cum Laude
-
-
-* IIS Confalonieri De Chirico
-  Diploma, Grafica PubblicitariaDiploma, Grafica Pubblicitaria
-  set 2009 - giu 2014
-
-
----
-
-### 🛠️ Linguaggi e Tecnologie
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Verse](https://img.shields.io/badge/-Verse-000000?style=flat&logo=epicgames&logoColor=white)
-
-
----
-
-## 🎨 Strumenti di Design / 3D che utilizzo
-
-<h3 align="left">🎨 Software Creativi</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
-  <img src="https://img.shields.io/badge/Autodesk%20Maya-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" />
-  <img src="https://img.shields.io/badge/Substance%203D%20Painter-FF6C00?style=for-the-badge&logo=adobe&logoColor=white" alt="Substance 3D Painter" />
-</p>
-
-
----
-
-### 📌 Progetti in arrivo
-
-Attualmente sto lavorando su progetti personali che presto saranno pubblicati qui su GitHub!
-📂 **Work in progress... Stay tuned!**
-
----
-
-### 📫 Contattami
-
-<p align="center">
- <a href="https://www.linkedin.com/in/claudia-laici/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
   
- <a href="https://www.artstation.com/claudialaici">
-    <img src="https://img.shields.io/badge/-ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white" />
-  </a>
-</p>
+  <!-- Header animato con gradiente -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Ciao%2C+sono+Claudia+Laici;✨+Front-End+%26+Game+Developer" alt="Typing SVG" />
+  
+  <!-- Linea decorativa -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+</div>
 
+## 🚀 Chi sono
+
+```typescript
+const claudia = {
+    specializzazione: ["Front-End Development", "Game Development"],
+    passioni: ["Logica", "Creatività", "Esperienze Interattive"],
+    stato: "Sempre alla ricerca di nuove sfide 🎯",
+    motto: "Trasformare idee in realtà digitali"
+};
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuousername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+</div>
 
 ---
+
+## 🎓 Percorso Formativo
+
+<div align="center">
+
+| 🏫 **Istituto** | 📚 **Corso** | 📅 **Periodo** | 🏆 **Voto** |
+|:---:|:---:|:---:|:---:|
+| **ITS Academy LazioDigital** | Tecnico Superiore Game Developer (V EQF) | nov 2022 - lug 2024 | **100/100 cum Laude** 🥇 |
+| **IIS Confalonieri De Chirico** | Diploma Grafica Pubblicitaria | set 2009 - giu 2014 | ✅ |
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 🔧 Linguaggi di Programmazione
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Verse](https://img.shields.io/badge/Verse-000000?style=for-the-badge&logo=epicgames&logoColor=white)
+  
+</div>
+
+### 🎨 Creative Suite & 3D Tools
+<div align="center">
+  
+  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+  ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+  ![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![Substance](https://img.shields.io/badge/Substance%203D-FF6C00?style=for-the-badge&logo=adobe&logoColor=white)
+  
+</div>
+
+---
+
+## 🚧 Progetti in Sviluppo
+
+<div align="center">
+  
+  ```ascii
+  ┌─────────────────────────────────────┐
+  │  🔨 Work in Progress...             │
+  │  ⚡ Exciting projects coming soon!   │
+  │  🎮 Stay tuned for updates!         │
+  └─────────────────────────────────────┘
+  ```
+  
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding"/>
+  
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuousername&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuousername&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+  
+</div>
+
+---
+
+## 🌐 Connettiti con me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-laici/)
+  [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/claudialaici)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- Footer con wave animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Grazie%20per%20la%20visita!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=tuousername&color=blueviolet&style=for-the-badge)
+  
+</div>
