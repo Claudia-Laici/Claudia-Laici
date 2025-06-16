@@ -6,7 +6,7 @@
 
 ```typescript
 const claudia = {
-    specializzazione: ["Front-End Development", "Game Development"],
+    specializzazione: ["Front-End Developer", "Game Developer"],
     passioni: ["Logica", "Creatività", "Esperienze Interattive"],
     stato: "Sempre alla ricerca di nuove sfide 🎯",
     motto: "Trasformare idee in realtà digitali"
@@ -72,19 +72,6 @@ const claudia = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudia-Laici&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia-Laici&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-  
-</div>
-
----
 
 ## 🌐 Connettiti con me
 
