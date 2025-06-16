@@ -1,5 +1,10 @@
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=amatic+sc&weight=600&size=30&color=7B5FFD&background=FEFFFF00&center=true&vCenter=true&lines=Claudia+Laici;Front-End+Dev+%26+Game+Developer" alt="Typing animation" />
+</p>
+
+
 ### 👩‍💻 Chi sono
 
 Sono una sviluppatrice specializzata in front-end e sviluppo di videogiochi.
