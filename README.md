@@ -1,9 +1,6 @@
-<div align="center">
-  <!-- Header animato -->
-  <img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=600&size=35&color=7B5FFD&center=true&vCenter=true&lines=👋+Ciao%2C+sono+Claudia+Laici;✨+Front-End+%26+Game+Developer;🎮+Creatrice+di+Esperienze+Digitali" alt="Typing SVG" />
-  <!-- Linea decorativa -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=amatic+sc&weight=600&size=30&color=7B5FFD&background=FEFFFF00&center=true&vCenter=true&lines=Claudia+Laici;Front-End+Dev+%26+Game+Developer" alt="Typing animation" />
+</p>
 
 ## 🚀 Chi sono
 
