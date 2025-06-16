@@ -87,7 +87,7 @@ const claudia = {
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuousername&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Claudia-Laici&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
   
   <br><br>
   
