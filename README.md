@@ -41,6 +41,21 @@ Mi piace unire logica e creatività per costruire esperienze interattive coinvol
 
 ---
 
+## 🎨 Strumenti di Design / 3D che utilizzo
+
+<h3 align="left">🎨 Software Creativi</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
+  <img src="https://img.shields.io/badge/Autodesk%20Maya-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" />
+  <img src="https://img.shields.io/badge/Substance%203D%20Painter-FF6C00?style=for-the-badge&logo=adobe&logoColor=white" alt="Substance 3D Painter" />
+</p>
+
+
+---
+
 ### 📌 Progetti in arrivo
 
 Attualmente sto lavorando su progetti personali che presto saranno pubblicati qui su GitHub!
