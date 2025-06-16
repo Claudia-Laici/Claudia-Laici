@@ -1,11 +1,8 @@
 <div align="center">
-  
-  <!-- Header animato con gradiente -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Ciao%2C+sono+Claudia+Laici;✨+Front-End+%26+Game+Developer" alt="Typing SVG" />
-  
+  <!-- Header animato -->
+  <img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=600&size=35&color=7B5FFD&center=true&vCenter=true&lines=👋+Ciao%2C+sono+Claudia+Laici;✨+Front-End+%26+Game+Developer;🎮+Creatrice+di+Esperienze+Digitali" alt="Typing SVG" />
   <!-- Linea decorativa -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
 </div>
 
 ## 🚀 Chi sono
