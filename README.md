@@ -83,7 +83,7 @@ const claudia = {
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuousername&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia-Laici&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
   
 </div>
 
