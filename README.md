@@ -88,7 +88,7 @@ const claudia = {
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Claudia-Laici&color=blueviolet&style=for-the-badge)
   
-  <!-- Footer con wave animation -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Grazie%20per%20la%20visita!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
   
 
