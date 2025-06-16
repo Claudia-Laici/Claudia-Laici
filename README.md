@@ -76,9 +76,7 @@ const claudia = {
   │  🎮 Stay tuned for updates!         │
   └─────────────────────────────────────┘
   ```
-  
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding"/>
-  
+    
 </div>
 
 ---
