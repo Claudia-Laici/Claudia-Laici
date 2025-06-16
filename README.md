@@ -34,12 +34,6 @@ Mi piace unire logica e creatività per costruire esperienze interattive coinvol
 ![Verse](https://img.shields.io/badge/-Verse-000000?style=flat&logo=epicgames&logoColor=white)
 
 
-🎨 Game engines e tool:
-
-* Unity
-* Unreal Engine
-* Verse
-
 ---
 
 ### 📌 Progetti in arrivo
